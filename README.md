@@ -5,7 +5,7 @@ Converter developed in golang, using ffmpeg libraries.
 ```console
 wget https://github.com/akosej/ejConvert/raw/main/ejConvert
 sudo cp ./ejConver /usr/local/bin/
-cudo chmod +x /usr/local/bin/ejConver
+sudo chmod +x /usr/local/bin/ejConver
 ```
 
 ## Usage
